@@ -4,3 +4,6 @@
 3. IdentityServer4 
 4. FluentValidation
 5. Serilog
+
+The IdentityServer will be hosted on http://localhost:5000
+The API will be hosted on http://localhost:50001
